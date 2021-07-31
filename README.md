@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hagass
 - 👀 I’m interested in Pentest&Programming
 - 🌱 I’m currently learning Python,network+,...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mr.anjamrooz@gmail.com
 
 <!---
